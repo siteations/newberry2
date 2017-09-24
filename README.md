@@ -1,11 +1,7 @@
-# newberry4
-Religious Change - Exhibit Selections - Tablet 4
+# newberry2
+Religious Change - Exhibit Selections - Tablet 2
 
-These are cached files from the main exhibit, including the main sections:
-* Divines and Natural Theologians - 11 files
-* Clergy and Laity - 22 files
-* Saints and Sinners - 13 files
-* Looking Forward - 13 files
+These are cached files from the main exhibit.
 
 This includes the core pages (4-5 per section) and all enlarged image pages, 59 pages total + new index.
 
@@ -35,6 +31,7 @@ Each folder (for each tablet) will include a 'savedElements' folder that holds t
   
 5. MINOR EDITS -
 * pdf readers, etc. to be determined.
+* google analytics redirect to the online web version.
 
   
 ### To update exhibition files two options:
@@ -52,9 +49,9 @@ Each folder (for each tablet) will include a 'savedElements' folder that holds t
 ### As the download option is easy, but time consuming, the following guides non-git users through git based updating:
 * download and install git on each machine (do this only once) from [the git site](https://git-scm.com/) or for more ui options [the github site](http://windows.github.com)
 * instead of downloading a zip, navigate to where you want the files to sit on your desktop and right click for the option 'open git bash here'
-* with git bash's command line interface open type in (for cloning this respositiory) 'git clone https://github.com/siteations/newberry4'
+* with git bash's command line interface open type in (for cloning this respositiory) 'git clone https://github.com/siteations/newberry2'
 * this will download the folder of materials for you, akin to the manual zip download, so this only needs to be done once
-* after the folder is downloaded, using git bash, navigate inside by typing 'cd newberry4' and notice the hidden '.git' folder
+* after the folder is downloaded, using git bash, navigate inside by typing 'cd newberry2' and notice the hidden '.git' folder
 * at this point you should be parallel to the main 'index.html' file
 * this is where you will want to be for updates. . . (so when updating, navigate here through your normal graphic user interface and right click, open git bash)
 * to update with git bash, simply type 'git pull origin master'
